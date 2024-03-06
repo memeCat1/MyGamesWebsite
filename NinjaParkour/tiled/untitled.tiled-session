@@ -1,0 +1,66 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3.33
+        },
+        "level1.tmx": {
+            "scale": 0.4636,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 729.076790336497,
+                "y": 2221.74288179465
+            }
+        },
+        "level1.tmx#background_blue": {
+            "scaleInDock": 1.3874
+        },
+        "level1.tmx#background_yellow": {
+            "scaleInDock": 3.2453
+        },
+        "level1.tmx#fire": {
+            "scaleInDock": 4.5485
+        },
+        "level1.tmx#sand_mud_ice": {
+            "scaleInDock": 3.4081
+        },
+        "level1.tmx#spikes": {
+            "scaleInDock": 13.809
+        },
+        "level1.tmx#terrain": {
+            "scaleInDock": 1.8091,
+            "scaleInEditor": 2.6765
+        },
+        "level1.tmx#terrain_collide": {
+            "scaleInDock": 1.6864,
+            "scaleInEditor": 3.334
+        }
+    },
+    "last.imagePath": "/Users/maxbotta/Desktop/DigitalSchool/Mi1745/MyGamesWebsite/NinjaParkour/assets/Traps/Fire",
+    "map.height": 60,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "1",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 60,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
